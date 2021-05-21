@@ -9,3 +9,5 @@ Loop - for loop, while loop, break, continue statement.
 
 
 ![Capture](https://user-images.githubusercontent.com/82524305/119183505-cef32e80-ba91-11eb-8139-34742ff8c67a.PNG)
+
+![Capture](https://user-images.githubusercontent.com/82524305/119183773-2db8a800-ba92-11eb-8e4b-42809a011870.PNG)
